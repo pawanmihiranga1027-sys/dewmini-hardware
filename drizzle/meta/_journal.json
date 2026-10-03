@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790056974316,
+      "tag": "0000_yielding_firestar",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1790085159100,
+      "tag": "0001_flaky_maximus",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1790087568867,
+      "tag": "0002_charming_veda",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1790215689848,
+      "tag": "0003_fluffy_taskmaster",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1790294890148,
+      "tag": "0004_regular_power_pack",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1791054381381,
+      "tag": "0005_fast_moondragon",
+      "breakpoints": true
+    }
+  ]
+}
